@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NdQXUBEJ9skJRUUh+GQJIXyo6pOkQrr6Nysdt1kNXuc=",
+  "Source": "AwsTestApi",
+  "BasePath": "_content/AwsTestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

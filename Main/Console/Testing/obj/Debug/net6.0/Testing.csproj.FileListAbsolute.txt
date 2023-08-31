@@ -1,0 +1,15 @@
+C:\Learning\DotNetMicroServices\Main\Console\Testing\bin\Debug\net6.0\Testing.exe
+C:\Learning\DotNetMicroServices\Main\Console\Testing\bin\Debug\net6.0\Testing.deps.json
+C:\Learning\DotNetMicroServices\Main\Console\Testing\bin\Debug\net6.0\Testing.runtimeconfig.json
+C:\Learning\DotNetMicroServices\Main\Console\Testing\bin\Debug\net6.0\Testing.dll
+C:\Learning\DotNetMicroServices\Main\Console\Testing\bin\Debug\net6.0\Testing.pdb
+C:\Learning\DotNetMicroServices\Main\Console\Testing\obj\Debug\net6.0\Testing.csproj.AssemblyReference.cache
+C:\Learning\DotNetMicroServices\Main\Console\Testing\obj\Debug\net6.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\DotNetMicroServices\Main\Console\Testing\obj\Debug\net6.0\Testing.AssemblyInfoInputs.cache
+C:\Learning\DotNetMicroServices\Main\Console\Testing\obj\Debug\net6.0\Testing.AssemblyInfo.cs
+C:\Learning\DotNetMicroServices\Main\Console\Testing\obj\Debug\net6.0\Testing.csproj.CoreCompileInputs.cache
+C:\Learning\DotNetMicroServices\Main\Console\Testing\obj\Debug\net6.0\Testing.dll
+C:\Learning\DotNetMicroServices\Main\Console\Testing\obj\Debug\net6.0\refint\Testing.dll
+C:\Learning\DotNetMicroServices\Main\Console\Testing\obj\Debug\net6.0\Testing.pdb
+C:\Learning\DotNetMicroServices\Main\Console\Testing\obj\Debug\net6.0\Testing.genruntimeconfig.cache
+C:\Learning\DotNetMicroServices\Main\Console\Testing\obj\Debug\net6.0\ref\Testing.dll

@@ -1,0 +1,12 @@
+C:\Learning\DotNetMicroServices\Main\Blazor\WarehouseManger\src\Domain\bin\Debug\net5.0\WarehouseManger.Domain.deps.json
+C:\Learning\DotNetMicroServices\Main\Blazor\WarehouseManger\src\Domain\bin\Debug\net5.0\WarehouseManger.Domain.dll
+C:\Learning\DotNetMicroServices\Main\Blazor\WarehouseManger\src\Domain\bin\Debug\net5.0\WarehouseManger.Domain.pdb
+C:\Learning\DotNetMicroServices\Main\Blazor\WarehouseManger\src\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Learning\DotNetMicroServices\Main\Blazor\WarehouseManger\src\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\DotNetMicroServices\Main\Blazor\WarehouseManger\src\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Learning\DotNetMicroServices\Main\Blazor\WarehouseManger\src\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Learning\DotNetMicroServices\Main\Blazor\WarehouseManger\src\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Learning\DotNetMicroServices\Main\Blazor\WarehouseManger\src\Domain\obj\Debug\net5.0\WarehouseManger.Domain.dll
+C:\Learning\DotNetMicroServices\Main\Blazor\WarehouseManger\src\Domain\obj\Debug\net5.0\refint\WarehouseManger.Domain.dll
+C:\Learning\DotNetMicroServices\Main\Blazor\WarehouseManger\src\Domain\obj\Debug\net5.0\WarehouseManger.Domain.pdb
+C:\Learning\DotNetMicroServices\Main\Blazor\WarehouseManger\src\Domain\obj\Debug\net5.0\ref\WarehouseManger.Domain.dll
